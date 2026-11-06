@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.inforprime.naoesquece",
+      "sha256_cert_fingerprints": [
+        "F1:93:45:88:7D:99:B2:3E:1D:D8:8C:9B:01:41:43:B0:85:33:D5:9F:33:8E:28:5A:A4:A7:BD:13:4C:D1:C4:24"
+      ]
+    }
+  }
+]
